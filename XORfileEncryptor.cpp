@@ -6,7 +6,7 @@
 using namespace std;
 
 
-
+// Author: Vedanth Shenoy
 string XORencryption(const string& fileWords, const string& key){
     string encryptedFile = fileWords;
     // XOR encryption
